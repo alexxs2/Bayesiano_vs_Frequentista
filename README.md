@@ -1,3 +1,4 @@
+[Parkinsons](https://archive.ics.uci.edu/dataset/174/parkinsons)
 # Bayesiano vs. Frequentista: quem ganha na detecção de Parkinson?
 🎯 Objetivo
 Comparar a capacidade de modelos bayesianos e frequentistas para detectar Parkinson a partir de métricas de voz, em uma base desafiadora:
